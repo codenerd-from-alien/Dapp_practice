@@ -1,0 +1,15 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "dapp_2",
+  "directories": {
+    "test": "test"
+  },
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static-server public"
+  },
+  "author": "myeong jin",
+  "license": "ISC"
+}
